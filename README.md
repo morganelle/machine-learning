@@ -11,3 +11,6 @@ Analysis:
 - The relationship between per-capita crime rate and the pupil-teacher ratio. Differentiate between whether or not the suburb is bounded by the Charles River.
 - The relationship between the proportion of black citizens and the distance to employment centers in Boston.
 - The relationship between median value of owner-occuped homes and nitric oxide concentration along with median home value and the proportion of non-retail business (on the same plot).
+
+### Imperfect Data
+Data set: https://data.cityofchicago.org/Administration-Finance/Budget-2016-Budget-Ordinance-Positions-and-Salarie/ipsp-k4xh
